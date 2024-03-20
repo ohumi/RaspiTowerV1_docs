@@ -1,1 +1,1 @@
-![step 01](step01.jpg "Step 01")
+![step 01](step01.jpeg "Step 01")
